@@ -1,15 +1,14 @@
 {
-  "assets": [
-    "/a/kitten1.jpg",
-    "/a/kitten2.jpg"
-  ],
   "stylesheets": [
-    "/b/c/colours.css"
+    "/b/c/styles.css"
   ],
   "scripts": [
     "/b/c/fun.js"
   ],
   "globalAssets": [
     "/a"
+  ],
+  "nunjucksDirs": [
+    "/nunjucks-macros"
   ]
 }
