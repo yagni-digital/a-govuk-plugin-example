@@ -4,7 +4,7 @@ After following the instructions at https://github.com/yagni-digital/z-govuk-plu
 
 ## Usage
 
-1. Inside the prototype you've already been playing with `npm install --save https://github.com/yagni-digital/z-govuk-plugin-example.git`
+1. Inside the prototype you've already been playing with `npm install --save https://github.com/yagni-digital/a-govuk-plugin-example.git`
 
 At this stage everything's installed but because of the conflict with `z-govuk-plugin-example` and the default alphabetic sorting the `a` variant is being overridden by the `z` variant.  Now we'll update the config to specify that the order should be updated.
 
