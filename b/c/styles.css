@@ -1,5 +1,6 @@
 .demo-feature {
     background-color: transparent;
+    background-image: url("../../a/kitten2.jpg");
     border: 1px solid #333;
     color: #333;
 }

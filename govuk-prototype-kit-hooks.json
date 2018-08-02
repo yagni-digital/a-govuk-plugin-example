@@ -5,6 +5,9 @@
   "scripts": [
     "/b/c/fun.js"
   ],
+  "assets": [
+    "/a/kitten2.jpg"
+  ],
   "globalAssets": [
     "/a"
   ],
