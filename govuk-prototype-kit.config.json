@@ -1,0 +1,14 @@
+{	
+  "stylesheets": [	
+    "/b/c/styles.css"	
+  ],	
+  "scripts": [	
+    "/b/c/fun.js"	
+  ],	
+  "assets": [	
+    "/a/kitten2.jpg"	
+  ],	
+  "nunjucksPaths": [	
+    "/nunjucks-macros"	
+  ]	
+}
