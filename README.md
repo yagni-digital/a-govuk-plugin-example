@@ -9,7 +9,7 @@ After following the instructions at https://github.com/yagni-digital/govuk-plugi
 At this stage everything's installed but because of the conflict with `z-govuk-plugin-example` and the default alphabetic sorting the `a-govuk...` variant is being overridden by the `govuk...` variant.  Now we'll update the config to specify that the order should be updated.
 
 2. Open up the file `app/config.js` (it's found in the prototype directory you installed the two plugins into)
-3. Update the `foundationExtensions:` array to:
+3. Update the `foundationExtensions` array to:
 ```
   foundationExtensions: ["govuk-frontend", "govuk-plugin-example"]
 ```
